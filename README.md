@@ -1,19 +1,19 @@
 # Emoji Mosaic
 
-Turn an image into a mosaic made of emojis.
+将图像转换为由表情符号制成的马赛克。
 
-[Live site](http://ericandrewlewis.github.io/emoji-mosaic/)
+[Live site](http://Rodneylzy.github.io)
 
-## Figure out the average color value of each Emoji?
+# 使用方法
+1.点击"选择文件"并上传你的照片
+2.转换速度受运行平台性能以及图片大小限制，大型图片需要比较长的处理时间
+3.转换完成后，"Save as image"选项将变得可用，单击并保存输出图片即可
 
-What is the source for the Emoji character? Using the actual system character seems exceedingly hard — I don't think I got [node-canvas](https://github.com/Automattic/node-canvas) installed correctly, and even so I don't believe it would render the Apple Emoji system font.
+## 算出每个表情符号的平均颜色值？
+表情符号字符的来源是什么？使用实际的系统字符似乎极其困难 - 我不认为我正确安装了节点画布，即使如此，我不相信它会呈现苹果表情符号系统字体。
 
-Maybe extract emoji characters from another library? [Gemoji did it](https://github.com/github/gemoji/tree/master/images/emoji/unicode) [The Apple ttf library might be unlicensed](http://stackoverflow.com/questions/22337295/license-of-apple-color-emoji-ttf/22949517#22949517)?
+也许从另一个库提取表情符号？Gemoji 做到了苹果 ttf 库可能未经许可？
 
-Get a package to [read pngs](https://github.com/niegowski/node-pngjs) and make a lookup table?
+## 如何布局表情符号？
 
-Use a prebaked lookup table [like in emojicam](https://github.com/AlexWiles/emojicam/blob/master/emojicam/emoji-colors-jpg.js)?
-
-## How to layout the emoji?
-
-The Emoji should be tightly packed, laid on top of each other, and skewed angle to give it an organic vibe. To get an organic layout (rather than a grid layout) [Poisson-Disc sampling is cool](http://bl.ocks.org/mbostock/dbb02448b0f93e4c82c3), here's a [great example](http://bl.ocks.org/mbostock/19168c663618b7f07158).
+采用很酷的有机布局 泊森-光盘采样
