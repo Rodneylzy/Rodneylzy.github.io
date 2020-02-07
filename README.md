@@ -5,6 +5,8 @@
 ### 在这里感谢被调用项目的开发者！他们写出了实打实的代码！赞！
 
 原项目地址:
-https://github.com/ericandrewlewis/emoji-mosaic Emoji拼图
-https://www.html5tricks.com  HTML5 Tricks
-https://html5up.net HTML5 UP
+https://github.com/ericandrewlewis/emoji-mosaic Emoji拼图 
+
+https://www.html5tricks.com  HTML5 Tricks 
+
+https://html5up.net HTML5 UP 
