@@ -14,12 +14,18 @@ https://html5up.net HTML5 UP
 
 ### 感谢站酷图片作者
 
-FiftyStudio/封面 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/home.jpg)
+#### FiftyStudio/封面 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/home.jpg)
 
-xxliang/矢量城市 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/01.jpg)
 
-单纯De狼先生/水晶芯片 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/02.jpg)
 
-Han9/色块芒果 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/03.jpg)
+#### xxliang/矢量城市 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/01.jpg)
 
-如有侵权请联系Rodneylu@foxmail.com 我会在第一时间与您联系。
+
+
+#### 单纯De狼先生/水晶芯片 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/02.jpg)
+
+
+
+#### Han9/色块芒果 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/03.jpg)
+
+如有侵权请联系[我的私人信箱](rodneylu@foxmail.com) 我会在第一时间与您取得联系。
