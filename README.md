@@ -1,5 +1,6 @@
 # 没错，这是一个很水的网站
 
+lzy，高三党在读
 我不是真材实料的前端开发者，只是会一点点划水的技巧。这个网站的所有程式都是从开源社区复制而来，包括网页框架本身 也是用HTML5 UP模板改造成的。估计在高三毕业后会安排一位前端开发大神上贼船，来完善这个小站。
 
 ### 在这里感谢被调用项目的开发者！他们写出了实打实的代码！赞！
@@ -28,4 +29,4 @@ https://html5up.net HTML5 UP
 
 #### Han9/色块芒果 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/03.jpg)
 
-如有侵权请联系[我的私人信箱](rodneylu@foxmail.com) 我会在第一时间与您取得联系。
+如有侵权请联系[我的私人信箱](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/mail/%E6%89%B9%E6%B3%A8%202020-03-16%20173849.png) 我会在第一时间与您取得联系。
