@@ -13,7 +13,7 @@ https://www.html5tricks.com  HTML5 Tricks
 
 https://html5up.net HTML5 UP 
 
-### 感谢站酷图片作者
+### 感谢站酷图片作者，你们的设计让人耳目一新！
 
 #### FiftyStudio/封面 ![Aaron Swartz](https://github.com/Rodneylzy/Rodneylzy.github.io/blob/master/preview/home.jpg)
   
